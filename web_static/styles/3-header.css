@@ -1,0 +1,19 @@
+header {
+    height: 70px;
+    width: 100%;
+    border: 1px solid; 
+
+
+}
+
+header .borde {
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.logo{
+    background-image: url(../images/logo.png);
+    width: 9%;
+    height: 60px;
+    background-position:20px left ;
+}

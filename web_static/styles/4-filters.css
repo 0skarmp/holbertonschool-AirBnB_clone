@@ -1,0 +1,31 @@
+.container {
+	max-width: 1000px;
+	margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.filters {
+	color: white;
+	height: 70px;
+	width: 100%;
+	border: solid 1px #DDDDDD;
+	border-radius: 4px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right:20px;
+	
+}
+
+.filters button {
+	font-size: 18px;
+    background-color: #FF545F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border: none;
+    border-radius: 4px;
+    
+}
